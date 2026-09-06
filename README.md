@@ -11,6 +11,7 @@ My focus is on building projects from scratch, experimenting with new technologi
 ## 🌐 Portfolio
 
 ### ➜ [Visit My Portfolio](https://portfolio-vishuu.netlify.app/)
+![Vishal Portfolio Preview](/preview.png)
 
 A personal portfolio featuring:
 
